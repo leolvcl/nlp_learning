@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef221d60-4c97-4a6c-9e3b-ab3961049d4f" name="Default Changelist" comment="" />
+    <list default="true" id="ef221d60-4c97-4a6c-9e3b-ab3961049d4f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +11,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\svn项目\nlp_learning\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1afkcyhuowt1M1uRh75B41rpvBR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -18,6 +27,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
@@ -44,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587134118271</updated>
-      <workItem from="1587134134483" duration="445000" />
+      <workItem from="1587134134483" duration="687000" />
     </task>
     <servers />
   </component>
