@@ -2,12 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef221d60-4c97-4a6c-9e3b-ab3961049d4f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/排序/bubble_sort冒泡排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/排序/bucket_sort桶排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/排序/heap_sort堆排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/排序/insert_sort插入排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/排序/merge_sort归并排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/排序/quick_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/排序/radix_sort基数排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/排序/select_sort选择排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/排序/shell_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/排序/sount_sort计数排序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/经典函数/fibonanci.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,7 +38,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1afkcyhuowt1M1uRh75B41rpvBR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,6 +51,104 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="Python.fibonanci">
+    <configuration name="bubble_sort冒泡排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nlp_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序/bubble_sort冒泡排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fibonanci" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nlp_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/经典函数" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/经典函数/fibonanci.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="insert_sort插入排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nlp_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序/insert_sort插入排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="select_sort选择排序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nlp_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/排序" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/排序/select_sort选择排序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.fibonanci" />
+        <item itemvalue="Python.insert_sort插入排序" />
+        <item itemvalue="Python.select_sort选择排序" />
+        <item itemvalue="Python.bubble_sort冒泡排序" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -54,17 +172,50 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587134118271</updated>
-      <workItem from="1587134134483" duration="687000" />
+      <workItem from="1587134134483" duration="3685000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="686" y="117" key="SettingsEditor" timestamp="1587134296248">
+    <state x="828" y="163" width="1092" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587135293751">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="686" y="117" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587134296248" />
+    <state x="828" y="163" width="1092" height="712" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587135293751" />
+    <state width="844" height="246" key="GridCell.Tab.0.bottom" timestamp="1587136279276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="844" height="246" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587136279276" />
+    <state width="844" height="246" key="GridCell.Tab.0.center" timestamp="1587136279276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="844" height="246" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587136279276" />
+    <state width="844" height="246" key="GridCell.Tab.0.left" timestamp="1587136279276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="844" height="246" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587136279276" />
+    <state width="844" height="246" key="GridCell.Tab.0.right" timestamp="1587136279276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="844" height="246" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587136279276" />
+    <state x="686" y="117" key="SettingsEditor" timestamp="1587135304192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="686" y="117" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587135304192" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1587182166788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587182166788" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/nlp_learning$select_sort.coverage" NAME="select_sort选择排序 Coverage Results" MODIFIED="1587135729134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/排序" />
+    <SUITE FILE_PATH="coverage/nlp_learning$fibonanci.coverage" NAME="fibonanci Coverage Results" MODIFIED="1587136279271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/经典函数" />
+    <SUITE FILE_PATH="coverage/nlp_learning$bubble_sort.coverage" NAME="bubble_sort冒泡排序 Coverage Results" MODIFIED="1587135465192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/排序" />
+    <SUITE FILE_PATH="coverage/nlp_learning$insert_sort.coverage" NAME="insert_sort插入排序 Coverage Results" MODIFIED="1587135861376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/排序" />
   </component>
 </project>
